@@ -1,0 +1,15 @@
+{
+    "users": [
+      {
+        "name": "AYUSHI VASHISTH",
+        "email": "ayushivashisth22@gmail.com",
+        "password": "ayu",
+        "mobileNumber": "08219187422",
+        "age": "26",
+        "address": "HNO-315, GALI NO-15, B BLOCK, TOMAR COLONY, BEHIND BURARI SCHOOL",
+        "gender": "female",
+        "occupation": "btech",
+        "id": 1
+      }
+    ]
+  }
